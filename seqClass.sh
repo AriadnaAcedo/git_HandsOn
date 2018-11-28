@@ -18,6 +18,8 @@ if [[ -n $motif ]]; then
   if [[ $seq =~ $motif ]]; then
     echo "Tulipan"
   else
+<<<<<<< HEAD
     echo "No hay Margaritas"
+=======
   fi
 fi
